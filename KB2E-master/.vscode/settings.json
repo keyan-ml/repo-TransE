@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "map": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    }
+}
